@@ -1,5 +1,6 @@
 Toy Lifting Wavelet Animator
 ============================
+The original source code [here](https://github.com/mossblaser/streaming_wavelet_toy)
 
 This repository contains a toy program which animates various ways of computing
 of the [Discrete Wavelet Transform
