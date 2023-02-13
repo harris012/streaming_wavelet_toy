@@ -1,6 +1,6 @@
 Toy Lifting Wavelet Animator
 ============================
-The project is forcked [from](https://github.com/mossblaser/streaming_wavelet_toy)
+The project is forked [from](https://github.com/mossblaser/streaming_wavelet_toy)
 
 This repository contains a toy program which animates various ways of computing
 of the [Discrete Wavelet Transform
